@@ -3,7 +3,7 @@
 👋 Welcome to my GitHub!
 
 ## About Me
-Mysf Pranjal saraswat , passionate about coding and exploring new technologies.
+Myself Pranjal saraswat , passionate about coding and exploring new technologies.
 
 ## Projects
 - [Project 1](link): Description.
