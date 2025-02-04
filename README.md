@@ -1,4 +1,4 @@
- Pranjal@3024
+ Pranjal Saraswat
 
 👋 Welcome to my GitHub!
 
@@ -11,7 +11,7 @@ Myself Pranjal saraswat , passionate about coding and exploring new technologies
 - [Project 3](link): Description.
 
 ## Skills
-- Languages: [HTML,CSS,JAVASCRIPT,C,C++]
+- Languages: [HTML,CSS,JAVASCRIPT,Mongodb ,Node.js ,Express.js,C,C++]
 - Technologies: [MS-EXCEL,POWEPOINT,MS-WORD,AWS ,GIT-HUB]
 
 
